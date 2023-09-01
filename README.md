@@ -1,5 +1,5 @@
 # KnowledgeDistillation - Hands On
-A hand's on approach to learn how to do knowledge distillation on LLMs
+A hand's on approach to learn how to do knowledge distillation on LLMs hosted on hugging face
 
 
 ## Introduction
